@@ -6,17 +6,17 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(42,122,228);
-    padding: 40px;
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
     font-size: 32px;
-    color: rgb(42,122,228);
+    color: rgb(42, 122, 228);
 }
 
 
 section {
-    background: rgb(184,156,213);
-    padding-bottom: 30px;
-    padding-top: 30px;
+    background: rgb(200,156,213);
+    padding-bottom:50px;
+    padding-top:50px;
     display: flex;
     justify-content: center;
 }
