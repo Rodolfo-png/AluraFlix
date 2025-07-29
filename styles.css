@@ -7,7 +7,7 @@ body {
 
 header {
     border-bottom: solid 2px rgb(42,122,228);
-    padding: 20px;
+    padding: 40px;
     font-size: 32px;
     color: rgb(42,122,228);
 }
@@ -15,12 +15,12 @@ header {
 
 section {
     background: rgb(184,156,213);
-    padding-bottom: 60px;
+    padding-bottom: 30px;
     padding-top: 30px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-txto {
-    margin-right: 5%;
+    margin-right: 10%;
 }
