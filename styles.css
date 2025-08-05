@@ -1,11 +1,11 @@
 body {
     color: white;
     background: black;
-    margin: 0px;
+    margin: 100px;
 }
 
 header {
-    border-bottom: solid 100px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(42, 122, 228);
     padding: 50px;
     font-size: 50px;
     color: rgb(42, 122, 228);
@@ -13,8 +13,8 @@ header {
 
 section {
     background: rgb(184,156,213);
-    padding-bottom: 800px;
-    padding-top: 800px;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
